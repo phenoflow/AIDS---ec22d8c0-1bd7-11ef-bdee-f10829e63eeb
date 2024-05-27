@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/multiple-aids---primary.py
+inputModule3:
+  class: File
+  path: python/aids-pneumonia---primary.py
+inputModule4:
+  class: File
+  path: python/parasitic-aids---primary.py
+inputModule5:
+  class: File
+  path: python/aids-nonhodgkin---primary.py
+inputModule6:
+  class: File
+  path: python/secondary-aids---primary.py
+inputModule7:
+  class: File
+  path: python/aids-immunodeficiency---primary.py
+inputModule8:
+  class: File
+  path: python/aids-neoplasm---primary.py
+inputModule9:
+  class: File
+  path: python/other-aids---primary.py
+inputModule10:
+  class: File
+  path: python/aids-sarcoma---primary.py
+inputModule11:
+  class: File
+  path: python/aids-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/aids-lymphoma---primary.py
+inputModule13:
+  class: File
+  path: python/aids-acquired---primary.py
+inputModule14:
+  class: File
+  path: python/aids---primary.py
+inputModule15:
+  class: File
+  path: python/aids-resulting---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
